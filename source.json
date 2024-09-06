@@ -1,18 +1,25 @@
 {
-    "name":"Lastation Package Listing",
-    "id":"tech.lastation.lpl",
-    "url":"https://lastationvrchat.github.io/Lastation-Package-Listing/index.json",
-    "author":{
-        "email":"contact@lastation.tech",
-        "name":"LastationVRChat",
-        "url":"https://lastation.tech"
+    "name": "Lastation Package Listing",
+    "id": "tech.lastation.lpl",
+    "url": "https://lastationvrchat.github.io/Lastation-Package-Listing/index.json",
+    "author": {
+        "email": "contact@lastation.tech",
+        "name": "LastationVRChat",
+        "url": "https://lastation.tech"
     },
-    "description":"Lastation listing of VRChat packages",
-    "infoLink":{
-        "url":"http://github.com/LastationVRChat/Lastation-Package-Listing",
-        "text":"View on GitHub"
+    "description": "Lastation listing of VRChat packages",
+    "infoLink": {
+        "url": "http://github.com/LastationVRChat/Lastation-Package-Listing",
+        "text": "View on GitHub"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[],
-    "packages":[]
+    "bannerUrl": "banner.png",
+    "githubRepos": [],
+    "packages": [
+        {
+            "name": "tech.lastation.nsfw-locomotion",
+            "releases": [
+                "https://github.com/LastationVRChat/NSFW-Locomotion/releases/download/v1.8.3-NSFW-1.1.0/NSFW_Locomotion_v1.1.0.zip"
+            ]
+        }
+    ]
 }
